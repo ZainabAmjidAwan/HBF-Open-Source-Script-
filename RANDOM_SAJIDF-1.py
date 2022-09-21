@@ -153,12 +153,12 @@ logo =f"""{BLUE}==============================
 {BLUE}=  ====  ==      ====  =======
 ==============================
 \033[1;37m╔ⒽⒷⒻ═════════════════\033[1;33m𝐇𝐁𝐅✯𝐓𝐄𝐀𝐌\033[1;37m══════════════ⒽⒷⒻ╗
-\033[1;31m│\033[1;32m☞  \033[1;32m𝐀𝐔𝐓𝐇𝐎𝐑     \033[1;31m➟   \033[1;32m𝐌𝐔𝐇𝐀𝐌𝐌𝐀𝐃 𝐇𝐀𝐌𝐈𝐃 𝐊𝐇𝐀𝐖𝐀𝐉𝐀     \033[1;31m│
-\033[1;31m│\033[1;32m☞  \033[1;32m𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊   \033[1;31m➟   \033[1;32m𝐌𝐔𝐇𝐀𝐌𝐌𝐀𝐃 𝐇𝐀𝐌𝐈𝐃 𝐊𝐇𝐀𝐖𝐀𝐉𝐀\033[1;31m     │
-\033[1;31m│\033[1;32m☞  \033[1;32m𝐆𝐈𝐓𝐇𝐔𝐁    \033[1;31m ➟   \033[1;32m𝐇𝐚𝐦𝐢𝐢-𝐤𝐢𝐧𝐠-𝟎𝟔             \033[1;31m │
-\033[1;31m│\033[1;32m☞  \033[1;32m𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏  \033[1;31m ➟   \033[1;32m+923155912839             \033[1;31m │
+\033[1;31m│\033[1;32m☞  \033[1;32m𝐀𝐔𝐓𝐇𝐎𝐑     \033[1;31m➟   \033[1;32mMOHAMMAD SAJID     \033[1;31m│
+\033[1;31m│\033[1;32m☞  \033[1;32m𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊   \033[1;31m➟   \033[1;32mMOHAMMAD SAJID\033[1;31m     │
+\033[1;31m│\033[1;32m☞  \033[1;32m𝐆𝐈𝐓𝐇𝐔𝐁    \033[1;31m ➟   \033[1;32mSAJID HOSSAIN             \033[1;31m │
+\033[1;31m│\033[1;32m☞  \033[1;32m𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏  \033[1;31m ➟   \033[1;32m+8801941670534             \033[1;31m │
 \033[1;31m│\033[1;32m☞  \033[1;32m𝐕𝐄𝐑𝐒𝐈𝐎𝐍   \033[1;31m ➟   \033[1;32m0.4                     \033[1;31m   │
-\033[1;31m│\033[1;32m☞  \033[1;32m𝐘𝐎𝐔𝐓𝐔𝐁𝐄   \033[1;31m ➟   \033[1;32m𝐇𝐀𝐌𝐈𝐈 𝐖𝐎𝐑𝐋𝐃             \033[1;31m   │
+\033[1;31m│\033[1;32m☞  \033[1;32m𝐘𝐎𝐔𝐓𝐔𝐁𝐄   \033[1;31m ➟   \033[1;32mSAJID VLOG200             \033[1;31m   │
 \033[1;37m╚ⒽⒷⒻFACEBOOK TRICKS AND HELPING ZONE{ HBF }\033[1;37mⒽⒷⒻ╝
 \033[1;91m==========================================================
 \033[31;44m EVERYONE THINKS OF CHANGING THE WORLD     
@@ -191,9 +191,9 @@ def my_tool_security():
     print(logo)
     print(47*"-")
     print(c, 45*"-", wit)
-    print("\t  Facebook : MUHAMMAD HAMID KHAWAJA")
-    print("\t  Fb page  : Hamii Hbf Cammands")
-    print("\t  Github   : Hamii-king-06")
+    print("\t  Facebook : MOHAMMAD SAJID")
+    print("\t  Fb page  : SAJID Cammands")
+    print("\t  Github   : SAJID-king-05")
     print(c, 45*"-")
     print(47*"-")
     try:
@@ -237,7 +237,7 @@ def my_tool_security():
         exit()
     else:
         f_token=token_one+token_two
-    my_server=requests.get("https://www.facebook.com/100042882302159/posts/pfbid02ZG78gghaeEdjhr1Vo6MyvoHcPZkrCZcpH3ycnoEsswzLdVF5aZ8GueSYoHZxazael/?app=fbl").text
+    my_server=requests.get("https://www.facebook.com/md.sajid.ahmed.540").text
     if f_token in my_server:
         xyz()
     else:
@@ -282,7 +282,7 @@ def cek_apk(session,coki):
 
 #---------------------[MAIN MENU]---------------------#
 def xyz():
-    os.system("play-audio WELCOME_TO_HAMII_RANDOM_CLONE_TOOL.mp3")
+    os.system("play-audio WELCOME_TO_SAJID_RANDOM_CLONE_TOOL.mp3")
     os.getuid
     
     os.system("clear");print(logo)
@@ -306,9 +306,9 @@ def xyz():
         Tabii2()
         
     elif hamii in ["3","03"]:
-        os.system("xdg-open https://www.facebook.com/H4M11.YOUR.DAD");xyz()
+        os.system("xdg-open https://www.facebook.com/md.sajid.ahmed.540");xyz()
     elif hamii in ["4","04"]:
-        os.system("xdg-open https://wa.me/+923155912839")
+        os.system("xdg-open https://wa.me/+8801941670534")
         xyz()    
     elif hamii in ["0","00"]:
        exit()
@@ -329,13 +329,13 @@ def password():
     print("")
     passX = input(f" {RED}CHOOSE{hamii2} : ")
     if passX in ['1','01']:
-        os.system("xdg-open https://facebook.com/groups/492909121746564/")
+        os.system("xdg-open https://www.facebook.com/md.sajid.ahmed.540")
         password1()
     elif passX in ['2','02']:
-        os.system("xdg-open https://facebook.com/groups/492909121746564/")
+        os.system("xdg-open https://www.facebook.com/md.sajid.ahmed.540")
         password2()
     elif passX in ['3','03']:
-        os.system("xdg-open https://facebook.com/groups/492909121746564/")
+        os.system("xdg-open https://www.facebook.com/md.sajid.ahmed.540")
         password5()
     else:
         xyz()
@@ -428,8 +428,8 @@ def free1(uid,pwx,tl):
             if 'c_user' in log_cookies:
                 coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                 uid = coki[7:22]
-                os.system("play-audio HAMII_OK.mp3")
-                print('\r\033[1;32m[HAMII-OK] '+uid+' [√] '+ps+ '')
+                os.system("play-audio SAJID_OK.mp3")
+                print('\r\033[1;32m[SAJID-OK] '+uid+' [√] '+ps+ '')
                 cek_apk(session,coki)
                 open('/sdcard/HAMII-OK.txt', 'a').write(uid+' | '+ps+'\n')
                 ok.append(uid)
